@@ -8,10 +8,7 @@ first we'll create our javascript archive, when we realize that we need some req
  
  then we can use this function in out parameter, exemple:
  
-> <p> function teste(user = isRequired('user'),
-Policies = isRequired('policy')
-){}
-</p>
+> <p> function teste(user = isRequired('user'), policies = isRequired('policy')){}</p>
 
 
 <img src="https://raw.githubusercontent.com/felipeimp22/JS-required-field-without-Typescript/master/assets/04.png">
