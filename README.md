@@ -14,4 +14,7 @@ Policies = isRequired('policy')
 ){}
 </p>
 
+
+<img src="https://raw.githubusercontent.com/felipeimp22/JS-required-field-without-Typescript/master/assets/04.png">
+
 > I'm still writing, soon it will be released
