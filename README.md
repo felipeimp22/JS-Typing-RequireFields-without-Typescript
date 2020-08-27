@@ -8,8 +8,7 @@ first we'll create our javascript archive, when we realize that we need some req
  
  then we can use this function in out parameter, exemple:
  
- <p> function teste(
-user = isRequired('user')
+> <p> function teste(user = isRequired('user'),
 Policies = isRequired('policy')
 ){}
 </p>
