@@ -14,7 +14,7 @@ first we'll create our javascript archive, when we realize that we need some req
 
 
 ### what if I call the function whitout the fields ?
-HERE is result:
+HERE is the result:
 
 <img src="https://github.com/felipeimp22/JS-required-field-without-Typescript/blob/master/assets/01.png?raw=true">
 
