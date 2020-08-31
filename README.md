@@ -18,6 +18,7 @@ HERE is result:
 
 <img src="https://github.com/felipeimp22/JS-required-field-without-Typescript/blob/master/assets/01.png?raw=true">
 
+<img src="https://github.com/felipeimp22/JS-required-field-without-Typescript/blob/master/assets/03.png?raw=true">
 
 
 > I'm still writing, soon it will be released
