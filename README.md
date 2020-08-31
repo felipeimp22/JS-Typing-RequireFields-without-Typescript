@@ -10,12 +10,14 @@ first we'll create our javascript archive, when we realize that we need some req
  
 > <p> function teste(user = isRequired('user'), policies = isRequired('policy')){}</p>
 
+<img src="https://raw.githubusercontent.com/felipeimp22/JS-required-field-without-Typescript/master/assets/04.png">
+
+
 ### what if I call the function whitout the fields ?
 HERE is result:
 
 <img src="https://github.com/felipeimp22/JS-required-field-without-Typescript/blob/master/assets/01.png?raw=true">
 
 
-<img src="https://raw.githubusercontent.com/felipeimp22/JS-required-field-without-Typescript/master/assets/04.png">
 
 > I'm still writing, soon it will be released
