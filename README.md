@@ -21,4 +21,11 @@ HERE is the result:
 <img src="https://github.com/felipeimp22/JS-required-field-without-Typescript/blob/master/assets/03.png?raw=true">
 
 
-> I'm still writing, soon it will be released
+### If everything is right 
+
+<img src="https://github.com/felipeimp22/JS-required-field-without-Typescript/blob/master/assets/05.png?raw=true">
+
+
+>  I hope you enjoy, will be back for more articles like that
+
+<img src="https://www.papeldeparede.etc.br/fotos/wp-content/uploads/programador-de-game.jpg">
