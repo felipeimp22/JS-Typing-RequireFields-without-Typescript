@@ -28,4 +28,4 @@ HERE is the result:
 
 ##  I hope you enjoy, will be back for more articles like that
 
-<img src="https://www.papeldeparede.etc.br/fotos/wp-content/uploads/programador-de-game.jpg" height="200px">
+<img src="https://www.papeldeparede.etc.br/fotos/wp-content/uploads/programador-de-game.jpg" height="300px">
